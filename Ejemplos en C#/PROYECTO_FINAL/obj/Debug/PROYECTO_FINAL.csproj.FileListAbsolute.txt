@@ -1,0 +1,8 @@
+C:\Users\ivana\source\repos\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\PROYECTO_FINAL.csproj.AssemblyReference.cache
+C:\Users\ivana\source\repos\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\PROYECTO_FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivana\source\repos\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\PROYECTO_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\PROYECTO_FINAL\PROYECTO_FINAL\bin\Debug\PROYECTO_FINAL.exe.config
+C:\Users\ivana\source\repos\PROYECTO_FINAL\PROYECTO_FINAL\bin\Debug\PROYECTO_FINAL.exe
+C:\Users\ivana\source\repos\PROYECTO_FINAL\PROYECTO_FINAL\bin\Debug\PROYECTO_FINAL.pdb
+C:\Users\ivana\source\repos\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\PROYECTO_FINAL.exe
+C:\Users\ivana\source\repos\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\PROYECTO_FINAL.pdb
